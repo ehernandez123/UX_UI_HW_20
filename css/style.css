@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+.hero {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  padding: 50px;
+}
+
+.research {
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+}
+
+.accordion {
+  width: 80%;
+}
+
+.problem {
+  display: flex;
+  justify-content: center;
+}
+.problemdiv {
+  display: flex;
+  justify-content: center;
+}
+
+.carousel-image {
+  height: 500px; /* set the height you want */
+  object-fit: cover; /* this will make sure the aspect ratio of your images is preserved */
+  margin-bottom: 50px;
+}
